@@ -1,0 +1,13 @@
+{
+  "name": "navigator",
+  "version": "0.1.0",
+  "description": "Rubber duck on steroids. Claude becomes a Socratic pair-programming navigator that never writes your code: you drive, it questions, reviews, explains, and pokes holes.",
+  "author": {
+    "name": "the-rusty-shackleford",
+    "url": "https://github.com/the-rusty-shackleford"
+  },
+  "homepage": "https://github.com/the-rusty-shackleford/claude-skills/tree/master/navigator",
+  "repository": "https://github.com/the-rusty-shackleford/claude-skills",
+  "license": "MIT",
+  "keywords": ["pair-programming", "rubber-duck", "socratic", "learning", "no-code-generation", "mentor"]
+}
