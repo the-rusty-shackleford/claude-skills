@@ -4,7 +4,7 @@
 
 ## Why
 
-It's easy to slide from "AI helps me code" to "AI codes while I watch." Months later you've shipped a lot and learned little, and you've stopped checking the work. Navigator is a commitment device for getting back in the driver's seat: Claude stays useful, but as a tool rather than the author.
+Sometimes you want a sharp second brain, not a ghostwriter. Maybe you're learning a new language or codebase, keeping your skills from going rusty, preparing for interviews, or building something you'll maintain for years and want to understand line by line. Navigator keeps Claude useful as a thinking partner while the keyboard stays yours.
 
 ## What it does
 
