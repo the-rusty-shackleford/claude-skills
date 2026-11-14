@@ -1,0 +1,19 @@
+{
+  "name": "rusty-shackleford",
+  "owner": {
+    "name": "the-rusty-shackleford",
+    "url": "https://github.com/the-rusty-shackleford"
+  },
+  "metadata": {
+    "description": "Claude Code plugins and skills by the-rusty-shackleford."
+  },
+  "plugins": [
+    {
+      "name": "navigator",
+      "source": "./navigator",
+      "description": "Rubber duck on steroids. Claude becomes a Socratic pair-programming navigator that never writes your code.",
+      "version": "0.1.0",
+      "category": "learning"
+    }
+  ]
+}
